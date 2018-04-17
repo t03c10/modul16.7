@@ -1,0 +1,13 @@
+.TodoForm>input {
+    width: 300px;
+    margin-top: 10px;
+    font: 200 15px/1.5 Helvetica, Verdana, sans-serif;
+}
+
+.TodoForm {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+}
